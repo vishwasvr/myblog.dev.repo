@@ -1,5 +1,5 @@
 ---
-title: "Create a Free Blog Site Using GitHub Pages and Hugo"
+title: "Test Post"
 description: "This article describes how to use GitHub Pages with Hugo to create, maintain, and host your own blog site."
 date: 2022-03-04T13:09:42-06:00
 draft: false
