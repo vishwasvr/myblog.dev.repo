@@ -32,25 +32,25 @@ paginate = 5000 #frontpage pagination
 
   [[params.addtional_menus]]
   title =  "Programming"
-  href =  "/top/prgramming/"
+  href =  "/categories/prgramming/"
   [[params.addtional_menus]]
   title =  "Modelling"
-  href =  "/top/modelling/"
+  href =  "/categories/modelling/"
   [[params.addtional_menus]]
   title =  "Storage"
-  href =  "/top/storage/"
+  href =  "/categories/storage/"
   [[params.addtional_menus]]
   title =  "Analytics"
-  href =  "/top/analytics/"
+  href =  "/categories/analytics/"
   [[params.addtional_menus]]
   title =  "Visualization"
-  href =  "/top/visualization/"
+  href =  "/categories/visualization/"
   [[params.addtional_menus]]
   title =  "Learn"
   href =  "/categories/learn/"
   [[params.addtional_menus]]
-  title =  "Books"
-  href =  "/top/books/"
+  title =  "Resources"
+  href =  "/categories/resources/"
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/top/about/"
