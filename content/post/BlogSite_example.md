@@ -5,7 +5,7 @@ date: 2022-03-04T13:09:42-06:00
 draft: false
 image: "images/github-pagesLightBlue.jpeg"
 tags: ["blog", "GitHub Pages", "Hugo"]
-categories: ["Learn"]
+categories: ["Resources"]
 GHissueID: 3
 toc: true
 ---
