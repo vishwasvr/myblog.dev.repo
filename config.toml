@@ -47,7 +47,7 @@ paginate = 5000 #frontpage pagination
   href =  "/top/visualization/"
   [[params.addtional_menus]]
   title =  "Learn"
-  href =  "/top/learn/"
+  href =  "/categories/learn/"
   [[params.addtional_menus]]
   title =  "Books"
   href =  "/top/books/"
