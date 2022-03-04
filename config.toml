@@ -32,6 +32,21 @@ paginate = 5000 #frontpage pagination
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/top/about/"
+  [[params.addtional_menus]]
+  title =  "Programming"
+  href =  "/top/prgramming/"
+  [[params.addtional_menus]]
+  title =  "Modelling"
+  href =  "/top/modelling/"
+  [[params.addtional_menus]]
+  title =  "Storage"
+  href =  "/top/storage/"
+  [[params.addtional_menus]]
+  title =  "Analytics"
+  href =  "/top/analytics/"
+  [[params.addtional_menus]]
+  title =  "Visualization"
+  href =  "/top/visualization/"
 
   [params.social]
   rss            = true
