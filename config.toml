@@ -29,9 +29,7 @@ paginate = 5000 #frontpage pagination
 
   omit_categories = false
 
-  [[params.addtional_menus]]
-  title =  "ABOUT"
-  href =  "/top/about/"
+
   [[params.addtional_menus]]
   title =  "Programming"
   href =  "/top/prgramming/"
@@ -47,6 +45,15 @@ paginate = 5000 #frontpage pagination
   [[params.addtional_menus]]
   title =  "Visualization"
   href =  "/top/visualization/"
+  [[params.addtional_menus]]
+  title =  "Learn"
+  href =  "/top/learn/"
+  [[params.addtional_menus]]
+  title =  "Books"
+  href =  "/top/books/"
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/top/about/"
 
   [params.social]
   rss            = true
